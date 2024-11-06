@@ -14,3 +14,6 @@ spring:
   output:
     ansi:
       enabled: always
+jwt:
+  issuer: jiwonvane@gmail.com
+  secret_key: study-springboot
